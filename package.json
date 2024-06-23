@@ -12,6 +12,8 @@
     "@remix-run/node": "^2.9.2",
     "@remix-run/react": "^2.9.2",
     "@remix-run/server-runtime": "^2.9.2",
+    "@supabase/auth-helpers-remix": "^0.4.0",
+    "@supabase/supabase-js": "^2.43.5",
     "@vercel/analytics": "^1.2.2",
     "@vercel/remix": "2.9.2-patch.2",
     "isbot": "^4",
