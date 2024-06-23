@@ -38,7 +38,7 @@ export default function RealtimeMessages({ serverMessages }: { serverMessages: M
             <h2>Realtime Messages</h2>
             <ul>
                 {messages.map((message) => (
-                    <li key={message.id}>{message.user_id} - {message.content}</li>
+                    <li key={message.id}>{message.content}</li>
                 ))}
             </ul>
         </div>
